@@ -30,3 +30,6 @@
 - [ ] 27. TypeScript - Design Patterns (Padrões de projeto)
 - [ ] 28. Notas Finais
 - [ ] 29. Algum projeto final
+
+### onde parei?
+recomeçar no vídeo 24, aula de funções
